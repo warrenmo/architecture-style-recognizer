@@ -1,6 +1,6 @@
 # architecture-style-recognizer
 
-Using pre-trained CNNs to recognize different (mostly western) styles of (exterior) architecture. Images scraped from (images.google.com)[images.google.com]. Code outline from [fast.ai's MOOC](https://course.fast.ai/). 
+Using pre-trained CNNs to recognize different (mostly western) styles of (exterior) architecture. Images scraped from [images.google.com](images.google.com). Code outline from [fast.ai's MOOC](https://course.fast.ai/). 
 
 Validation Set Accuracy (%)   | Date Obtained (MM/DD/YY) | Model       | Number of Classes\* | Examples Per Class (on avg.) Before Data Cleaning
 |-----------------------------|--------------------------|-------------|---------------------|--------------------------------------------------
