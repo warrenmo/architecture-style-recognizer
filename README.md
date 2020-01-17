@@ -16,4 +16,4 @@ Validation Set Accuracy (%)   | Date Obtained (MM/DD/YY) | Model       | Number 
 
 # other work
 
-(Mathias et. al 2012)[https://www.researchgate.net/publication/273685892_Automatic_architectural_style_recognition] uses classical computer vision and segmentation techniques on three classes of architectural styles and obtains an accuracy of 84%, suggesting that deep learning may be a good approach for this problem.
+[Mathias et. al 2012](https://www.researchgate.net/publication/273685892_Automatic_architectural_style_recognition) uses classical computer vision and segmentation techniques on three classes of architectural styles and obtains an accuracy of 84%, suggesting that deep learning may be a good approach for this problem.
