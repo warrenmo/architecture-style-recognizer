@@ -13,3 +13,7 @@ Validation Set Accuracy (%)   | Date Obtained (MM/DD/YY) | Model       | Number 
 \*I removed the Bauhaus style after realizing that a large number of Google images of "bauhaus architecture exterior" were of the same buildings. It also seemed to be not dissimilar enough from modernist architecture from sources online that seemed to have domain expertise.
 
 \*\*This result is unfortunately quite difficult to reproduce as I was not consistent in manually cleaning the data (I underestimated the mass that is 4000 images).
+
+# other work
+
+(Mathias et. al 2012)[https://www.researchgate.net/publication/273685892_Automatic_architectural_style_recognition] uses classical computer vision and segmentation techniques on three classes of architectural styles and obtains an accuracy of 84%, suggesting that deep learning may be a good approach for this problem.
